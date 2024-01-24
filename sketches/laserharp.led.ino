@@ -1,15 +1,15 @@
 #include <SoftwareSerial.h>
 // LED outputs
-#define L1 24
-#define L2 12
-#define L3 11
-#define L4 10
-#define L5 9
-#define L6 8
-#define L7 7
-#define L8 6
-#define L9 5
-#define L10 22
+#define L1 41
+#define L2 39
+#define L3 37
+#define L4 35
+#define L5 33
+#define L6 31
+#define L7 29
+#define L8 27
+#define L9 25
+#define L10 23
 // Photoresistor inputs
 const int HP1 = A0;
 const int HP2 = A1;
